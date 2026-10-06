@@ -208,7 +208,7 @@ Dashboard terdiri dari:
 
 ### Dashboard Preview
 
-![Retail Sales Dashboard](dashboard/dashboard_screenshot.png)
+![Retail Sales Dashboard](images/Retail_Sales_Dasboard.png)
 
 ---
 
